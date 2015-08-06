@@ -13,8 +13,6 @@ An Event Espresso 4 plugin for providing an RESTful interface for Event Espresso
 
 A RESTful interface for accessing all Event Espresso event data (see: [Decaf](https://wordpress.org/plugins/event-espresso-decaf/) or [Core](https://github.com/eventespresso/event-espresso-core), or [EventEspresso.com](http://eventespresso.com/pricing/?ee_ver=ee4)). That means you can build client-side javascript code, mobile apps, and programs in any language (and on any server) that can read data used in Event Espresso 4.
 
-We've reached the first milestone which provides read access to all EE4 data. That means you can build client-side javascript code, mobile apps, and programs  in any language (and on any server) that can read data used in Event Espresso 4.
-
 So what's great about the EE4 REST API and what can you do with it? Here's a start:
 
 * Unlike its predecessor, the [EE3 JSON API](http://eventespresso.com/product/espresso-json-api/), this add-on is compatible with Event Espresso 4 (not Event Espresso 3)
